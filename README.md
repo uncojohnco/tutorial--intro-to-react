@@ -1,10 +1,9 @@
 # intro-to-react
 
-https://bit.ly/intro-to-react-vancouver
-
-https://docs.google.com/presentation/d/1JuKvq9iedmwKPmO34rPtd1cBOlxuSEsTU2Lvj-dRsow/edit?usp=sharing
+https://bit.ly/intro-to-react-vancouver or ([my google slide](https://docs.google.com/presentation/d/1JuKvq9iedmwKPmO34rPtd1cBOlxuSEsTU2Lvj-dRsow/edit?usp=sharing))
 
 Project repo - https://github.com/oikake/catstagram/tree/start
+
 
 ## Day 1
 - Intros
