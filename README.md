@@ -1,6 +1,7 @@
 # intro-to-react
 
-bit.ly/intro-to-react-vancouver
+[bit.ly/intro-to-react-vancouver](https://bit.ly/intro-to-react-vancouver)
+https://docs.google.com/presentation/d/1JuKvq9iedmwKPmO34rPtd1cBOlxuSEsTU2Lvj-dRsow/edit?usp=sharing
 
 ## Day 1
 - Intros
